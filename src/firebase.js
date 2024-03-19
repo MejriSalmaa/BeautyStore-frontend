@@ -7,12 +7,12 @@ import { getFirestore, getDocs, collection } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyACnL6YiPgyGambppatUBZRflZBxYRPLZI",
-  authDomain: "beauty-e6456.firebaseapp.com",
-  projectId: "beauty-e6456",
-  storageBucket: "beauty-e6456.appspot.com",
-  messagingSenderId: "857038169743",
-  appId: "1:857038169743:web:f18aba7c38deab68fc32fa",
+  // apiKey: "AIzaSyACnL6YiPgyGambppatUBZRflZBxYRPLZI",
+  // authDomain: "beauty-e6456.firebaseapp.com",
+  // projectId: "beauty-e6456",
+  // storageBucket: "beauty-e6456.appspot.com",
+  // messagingSenderId: "857038169743",
+  // appId: "1:857038169743:web:f18aba7c38deab68fc32fa",
 };
 
 // Initialize Firebase
